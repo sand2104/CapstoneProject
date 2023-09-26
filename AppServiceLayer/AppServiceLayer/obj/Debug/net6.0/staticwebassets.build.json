@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tt/MCaVSW4yK46yGYxT+rnWb7IEb6UOpiOoCeeECHX4=",
+  "Source": "AppServiceLayer",
+  "BasePath": "_content/AppServiceLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

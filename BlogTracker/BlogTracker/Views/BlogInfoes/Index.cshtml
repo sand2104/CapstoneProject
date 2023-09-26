@@ -1,0 +1,51 @@
+﻿@model IEnumerable<BlogTracker.Models.BlogInfo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center">Blog Info</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subject)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfCreation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BlogUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpEmailId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subject)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfCreation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BlogUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpEmailId)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

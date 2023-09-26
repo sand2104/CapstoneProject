@@ -1,0 +1,8 @@
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.csproj.AssemblyReference.cache
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.AssemblyInfoInputs.cache
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.AssemblyInfo.cs
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.csproj.CoreCompileInputs.cache
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.MvcApplicationPartsAssemblyInfo.cache
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.RazorAssemblyInfo.cache
+C:\data\CapstoneProject\CapstoneProject\obj\Debug\net6.0\CapstoneProject.RazorAssemblyInfo.cs
